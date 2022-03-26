@@ -10,7 +10,7 @@
 # in the same format as the two file names it already includes
 # (You must remove the current filenames if they are not being checked)
 file_names = ['Game.ini', 'GameUserSettings.ini']
-# Now Just Run This Script And check your output folder.
+# Now Just Run This Script And check your output folder. :)
 
 
 def ark_ini_windows_dupe_checker():
